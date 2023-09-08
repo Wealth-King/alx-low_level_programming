@@ -1,2 +1,2 @@
 #!/bin/bash
-cpp "$CFILE" "$OUTPUT_FILE"
+cpp input.c -o output.c
